@@ -1,0 +1,1 @@
+(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[88],{801:(t,e,l)=>{"use strict";l.r(e),l.d(e,{data:()=>r});const r={key:"v-3706649a",path:"/404.html",title:"",lang:"en-US",frontmatter:{layout:"404"},excerpt:"",headers:[],filePathRelative:null}},132:(t,e,l)=>{"use strict";l.r(e),l.d(e,{default:()=>r});const r={render:function(t,e){return null}}}}]);

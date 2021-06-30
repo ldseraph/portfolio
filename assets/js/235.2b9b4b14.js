@@ -1,0 +1,1 @@
+(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[235],{235:(o,e,n)=>{"use strict";n.r(e),n.d(e,{default:()=>t});var r=n(252);const t={render:function(o,e){return(0,r.wg)(),(0,r.j4)("div",null,"404 Not Found")}}}}]);
